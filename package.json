@@ -1,0 +1,22 @@
+{
+  "name": "TestandoNodeJS",
+  "version": "0.1.2",
+  "description": "Aplicacao de teste - iniciando o NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "list"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emersonti/testeNodeJS.git"
+  },
+  "keywords": [
+    "KeyChaveTeste"
+  ],
+  "author": "Emerson Andrade de Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emersonti/testeNodeJS/issues"
+  },
+  "homepage": "https://github.com/emersonti/testeNodeJS"
+}
