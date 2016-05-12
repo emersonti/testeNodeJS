@@ -1,6 +1,6 @@
 {
   "name": "TestandoNodeJS",
-  "version": "0.1.2",
+  "version": "0.2.2",
   "description": "Aplicacao de teste - iniciando o NodeJS",
   "main": "index.js",
   "scripts": {
